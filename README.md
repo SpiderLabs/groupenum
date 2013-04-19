@@ -10,7 +10,7 @@ The script uses ike-scan http://www.nta-monitor.com/tools-resources/security-too
 
 groupenum.py
 
-This Python POC enumerated group names from Cisco devices by differing responses to IKE negotiations. See https://www.trustwave.com/spiderlabs/advisories/TWSL2013-004.txt.
+This Python POC enumerates group names from Cisco devices by differing responses to IKE negotiations. See https://www.trustwave.com/spiderlabs/advisories/TWSL2013-004.txt.
 
 
 Further details and a guide can be found here:
