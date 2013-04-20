@@ -14,4 +14,7 @@ This Python POC enumerates group names from Cisco devices by differing responses
 
 
 Further details and a guide can be found here:
+
 http://blog.spiderlabs.com/2013/03/cracking-ike-aggressive-mode-hashes-part-1.html
+
+http://blog.spiderlabs.com/2013/04/cracking-ike-missionimprobable-part-2.html
