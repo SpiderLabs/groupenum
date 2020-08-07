@@ -1,3 +1,6 @@
+:warning: *NOTE: This tool is no longer under active maintenance.*
+
+
 **THESE SCRIPTS HAVE NOW BEEN SUPERSEDED BY IKEFORCE: https://github.com/SpiderLabs/ikeforce**
 
 
